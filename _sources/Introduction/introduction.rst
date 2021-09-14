@@ -106,7 +106,7 @@ data skills!
 
 
 .. image:: https://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png?format=1500w
-  :alt: Venn Diagram depicting the different components of Data Science: Hacking Skills, Substantive Expertise, and Math and Statistics Knowledge.
+   :alt: Venn Diagram depicting the different components of Data Science: Hacking Skills, Substantive Expertise, and Math and Statistics Knowledge.
    Venn Diagram |CCBYANC| Drew Conway
 
 
@@ -163,6 +163,7 @@ The Data Science Pipeline
 
 .. image:: Figures/DSPipeline.svg
    :align: left
+   :alt: Depicts the data science pipeline. A series of steps to go through to analyze and communicate with data.
 
 
 One of the primary goals of this textbook is to familiarize you with the data
